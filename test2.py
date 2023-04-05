@@ -1,5 +1,5 @@
 def calc():
-    a = 5
+    a = 77
     b = 5
     s = a + b
     print (s)
